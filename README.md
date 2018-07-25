@@ -1,4 +1,4 @@
-# Marketing Production Frontend Developer - Challenge
+# Marketing/Production Frontend Developer
 
 Please provide all deliverables in a repository.
 
