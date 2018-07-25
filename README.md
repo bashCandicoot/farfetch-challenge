@@ -10,8 +10,9 @@ The designer has provided a folder containing flat designs and the assets to be 
 
 Extra Credit:
 
-Method of responsive build
-Semantic, clean and easy to read markup
+- Method of responsive build
+- Semantic, clean and easy to read markup
+- Optimised for performance
 
 ## Task 2
 
@@ -23,6 +24,6 @@ At Farfetch we’re a fast growing global marketplace and need our products to b
 
 Extra Credit:
 
-SEO friendly
+- SEO friendly
 
 
